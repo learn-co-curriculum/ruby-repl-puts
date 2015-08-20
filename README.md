@@ -6,7 +6,7 @@ Below are some puts and non-puts repls. They should all work.
 
 ### Ruby Repl Puts
 
-Write a method that puts "ruby" 3 times
+Write a method that puts "ruby" 3 times.
 
 ~~~ruby
 
