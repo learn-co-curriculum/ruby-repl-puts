@@ -1,12 +1,12 @@
-# Let's test some Repls!
+# Let's test some Repls!!!!!
 
-Below are some puts and non-puts repls. They should all work.
+Below are some puts and non-puts repls. They should all work. Check 'em out!
 
 %%%
 
 ### Ruby Repl Puts
 
-Write a method that puts "ruby" 3 times
+Write a method that puts "ruby" 3 times.
 
 ~~~ruby
 
