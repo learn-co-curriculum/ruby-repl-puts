@@ -1,7 +1,5 @@
 # Let's test some Repls!!!!!
 
-TESTING
-
 Below are some puts and non-puts repls. They should all work. Check 'em out!
 
 %%%
