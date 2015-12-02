@@ -111,3 +111,4 @@ expect(response).to.be.a("array");
 %%%
 
 testing some stuff
+<a href='https://learn.co/lessons/ruby-repl-puts' data-visibility='hidden'>View this lesson on Learn.co</a>
