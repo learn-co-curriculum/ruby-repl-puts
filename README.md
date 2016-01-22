@@ -1,10 +1,10 @@
-# Let's test some Repls
+## Let's test some Repls
 
 Below are some puts and non-puts repls. They should all work. Check 'em out!
 
 %%%
 
-### Ruby Repl Puts
+# Ruby Repl Puts
 
 Write a method that puts "ruby" 3 times.
 
@@ -39,7 +39,7 @@ Moving right along...
 
 %%%
 
-### Ruby Repl Puts pt II
+# Ruby Repl Puts pt II
 
 Write one line of code that puts "repls are teh best"
 
@@ -61,7 +61,7 @@ assert_output(response, "repls are teh best\n")
 
 %%%
 
-### Ruby Repl - Regular (no puts)
+# Ruby Repl - Regular (no puts)
 
 Write a method that reverses a string, and call it, passing "12345" as an argument.
 
@@ -110,5 +110,4 @@ expect(response).to.be.a("array");
 
 %%%
 
-testing some stuff
 <a href='https://learn.co/lessons/ruby-repl-puts' data-visibility='hidden'>View this lesson on Learn.co</a>
