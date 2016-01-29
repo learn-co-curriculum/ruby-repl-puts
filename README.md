@@ -110,4 +110,4 @@ expect(response).to.be.a("array");
 
 %%%
 
-<a href='https://learn.co/lessons/ruby-repl-puts' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-repl-puts' title='Let's test some Repls'>Let's test some Repls</a> on Learn.co and start learning to code for free.</p>
