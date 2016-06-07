@@ -6,7 +6,7 @@ Below are some puts and non-puts repls. They should all work. Check 'em out!
 
 # Ruby Repl Puts
 
-Which method will `puts` `"ruby"` 3 times?
+?: Which method will `puts` `"ruby"` 3 times?
 
 (x)
 
@@ -41,7 +41,7 @@ end
 Moving right along...
 
 
-Which line of code `puts` `"repls are teh best"`?
+?: Which line of code `puts` `"repls are teh best"`?
 
 ( )
 
@@ -67,7 +67,7 @@ puts "ripples are teh best"
 "repls are teh best"
 ```
 
-Which method reverses a string?
+?: Which method reverses a string?
 
 (x)
 
