@@ -2,112 +2,97 @@
 
 Below are some puts and non-puts repls. They should all work. Check 'em out!
 
-%%%
+???
 
 # Ruby Repl Puts
 
-Write a method that puts "ruby" 3 times.
+Which method will `puts` `"ruby"` 3 times?
 
-~~~ruby
+(x)
 
-def puts_ruby_three_times
-  # code your solution here
-end
-
-# do not remove the line below
-puts_ruby_three_times
-
-~~~solution
-
+``` ruby
 def puts_ruby_three_times
   3.times do
     puts "ruby"
   end
 end
+```
 
-puts_ruby_three_times
+( )
 
-~~~validation
+``` ruby
+def puts_ruby_three_times
+  3.times do
+    "ruby"
+  end
+end
+```
 
-assert_output(response, "ruby\nruby\nruby\n")
+( )
 
-~~~
-
-%%%
+``` ruby
+def puts_ruby_three_times
+  3.do
+    puts "ruby"
+  end
+end
+```
 
 Moving right along...
 
-%%%
 
-# Ruby Repl Puts pt II
+Which line of code `puts` `"repls are teh best"`?
 
-Write one line of code that puts "repls are teh best"
+( )
 
-~~~ruby
+``` ruby
+puts "repls are the best"
+```
 
-# code solution here
+(x)
 
-~~~solution
-
+``` ruby
 puts "repls are teh best"
+```
 
-~~~validation
+( )
 
-assert_output(response, "repls are teh best\n")
+``` ruby
+puts "ripples are teh best"
+```
 
-~~~
+( )
 
-%%%
+``` ruby
+"repls are teh best"
+```
 
-%%%
+Which method reverses a string?
 
-# Ruby Repl - Regular (no puts)
+(x)
 
-Write a method that reverses a string, and call it, passing "12345" as an argument.
-
-~~~ruby
-
-# Code your solution here
-
-~~~solution
-
-def reverse(string)
-  string.reverse
+``` ruby
+def reverse(s)
+  s.reverse
 end
+```
 
-reverse("12345")
+( )
 
-~~~validation
+``` ruby
+def reverse(s)
+  s << s
+end
+```
 
-assert_equal(response, "54321")
+( )
 
-~~~
+``` ruby
+def reverse(s)
+  reverse(s)
+end
+```
 
-%%%
-
-One more repl..
-
-%%%
-
-### Javascript Repl
-
-Directions: Write an array containing three strings, each saying "taylors gonna tay".
-
-~~~javascript
-
-// Code your solution here
-
-~~~solution
-
-['taylors gonna tay', 'taylors gonna tay', 'taylors gonna tay']
-
-~~~validation
-
-assert.equal(response.length, 3);
-expect(response).to.be.a("array");
-
-~~~
-
-%%%
+???
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-repl-puts' title='Let's test some Repls'>Let's test some Repls</a> on Learn.co and start learning to code for free.</p>
